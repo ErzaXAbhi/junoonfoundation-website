@@ -52,7 +52,7 @@
 
   .page-container {
     grid-template-columns: 1fr;
-    text-align: center;
+    text-align: left;
   }
 
   .l-heading {
